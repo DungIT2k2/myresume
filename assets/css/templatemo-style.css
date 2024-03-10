@@ -471,7 +471,7 @@ button:hover {
 
 section.my-work .section-heading {
     text-align: center;
-    padding: 80px 45px 50px 45px;
+    padding: 50px 45px 50px 45px;
 }
 
 .isotope-wrapper {
@@ -837,4 +837,7 @@ hr {
 
 .about-left{
     text-align: center;
+}
+.h2-section1{
+    margin-top: 100px
 }
